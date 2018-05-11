@@ -23,5 +23,5 @@ Musics y le cargará unos cuantos registros de prueba.
 
 ## Configuración
 
-* Modificar la string de conexión a la base de datos: Visita el archivo appsettings.json
+* Modificar la string de conexión a la base de datos: Visita el archivo `appsettings.json`
 * Agregar más registros de prueba o carga inicial a la base de datos: Visita el archivo `Model/SeedData.cs`
