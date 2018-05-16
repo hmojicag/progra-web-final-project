@@ -2,6 +2,7 @@
 
 ## Prerequisitos
 
+* Recomiendo correrlo en alguna distro de Linux como Ubuntu. Aquí un tutorial de cómo instalar Ubuntu en una VM: http://www.psychocats.net/ubuntu/virtualbox
 * .Net Core
 * Docker
 
