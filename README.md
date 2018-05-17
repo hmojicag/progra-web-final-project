@@ -16,7 +16,7 @@
     
     git clone https://github.com/hmojicag/progra-web-final-project.git
     cd progra-web-final-project
-    dotnet run
+    sudo dotnet run
     
 Visita http://localhost:5000/Music
 
